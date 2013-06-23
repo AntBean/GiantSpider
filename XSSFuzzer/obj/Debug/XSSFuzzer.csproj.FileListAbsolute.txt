@@ -1,0 +1,8 @@
+E:\Code\VS\XSSFuzzer\XSSFuzzer\obj\Debug\ResolveAssemblyReference.cache
+E:\Code\VS\XSSFuzzer\XSSFuzzer\obj\Debug\XSSFuzzer.Form1.resources
+E:\Code\VS\XSSFuzzer\XSSFuzzer\obj\Debug\XSSFuzzer.Properties.Resources.resources
+E:\Code\VS\XSSFuzzer\XSSFuzzer\obj\Debug\XSSFuzzer.csproj.GenerateResource.Cache
+E:\Code\VS\XSSFuzzer\XSSFuzzer\bin\Debug\XSSFuzzer.exe
+E:\Code\VS\XSSFuzzer\XSSFuzzer\bin\Debug\XSSFuzzer.pdb
+E:\Code\VS\XSSFuzzer\XSSFuzzer\obj\Debug\XSSFuzzer.exe
+E:\Code\VS\XSSFuzzer\XSSFuzzer\obj\Debug\XSSFuzzer.pdb
